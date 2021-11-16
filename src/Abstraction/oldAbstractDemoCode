@@ -1,0 +1,23 @@
+//        GraphicObject circle = new Circle(3,7 , "small_circle" , 7);
+//
+//        GraphicObject circle2 = new Circle(5,9 , "big_circle" , 20);
+//
+//        GraphicObject rectangle = new Rectangle(60,70,"huge_rectangle");
+
+
+//        System.out.println("\n" + "Rectangle : "+ "\n");
+//        circle.draw();
+//        circle2.draw();
+//        circle.resize();
+//        circle.moveTo(30,40);
+
+//        System.out.println("\n" + "Rectangle : "+ "\n");
+//        rectangle.draw();
+//        rectangle.moveToRectangle(22,33);
+//        System.out.println("\n" + "Resizing Rectangle : "+ "\n");
+//        rectangle.draw();
+
+//        System.out.println("\n"+"Redraw circles on new coordinates"+"\n");
+//
+//        circle.draw();
+//        circle2.draw();
